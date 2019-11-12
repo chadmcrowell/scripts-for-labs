@@ -5,6 +5,7 @@ cp code-server2.1688-vsc1.39.2-linux-x86_64/code-server /usr/local/bin/
 
 # Install specific extensions
 # su -c "/usr/local/bin/code-server --install-extension ms-python.python" cloud_user
+su -c "/usr/local/bin/code-server --install-extension ms-azuretools.vscode-azurefunctions" azureuser
 
 # Start code-server systemd service
 cat > /etc/systemd/system/code-server.service <<EOF
