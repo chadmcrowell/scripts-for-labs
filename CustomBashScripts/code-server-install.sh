@@ -12,9 +12,9 @@ cat > /etc/systemd/system/code-server.service <<EOF
 Description=VSCode on the Web
 After=network.target
 [Service]
-User=chad
-Group=chad
-WorkingDirectory=/home/chad
+User=azureuser
+Group=azureuser
+WorkingDirectory=/home/azureuser
 ExecStart=/usr/local/bin/code-server -p 8080 --auth none
 [Install]
 WantedBy=multi-user.target
