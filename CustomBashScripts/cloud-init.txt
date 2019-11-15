@@ -4,4 +4,4 @@ package_upgrade: true
 
 snap:
     commands:
-        00: ['install', 'code']
+        00: 'snap install code --classic'
