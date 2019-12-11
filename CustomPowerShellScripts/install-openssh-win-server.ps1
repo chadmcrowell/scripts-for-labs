@@ -20,3 +20,7 @@ Out-File -FilePath C:\ProgramData\ssh\sshd_config -InputObject $config
 Set-ExecutionPolicy AllSigned -Force
 
 Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
+
+Start-Sleep -s 20
+
+Restart-Service sshd
