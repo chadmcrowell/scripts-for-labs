@@ -1,3 +1,7 @@
+wget https://powershellcourse.blob.core.windows.net/powershell-core/PowerShell-6.2.3-win-x64.msi -Outfile C:\Users\cloud_user\pwsh.msi
+
+Start-Sleep -s 60
+
 Add-WindowsCapability -Online -Name OpenSSH.Server~~~~0.0.1.0
 
 Start-Sleep -s 30
