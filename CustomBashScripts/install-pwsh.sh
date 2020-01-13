@@ -21,3 +21,6 @@ Subsystem       sftp    /usr/lib/openssh/sftp-server
 Subsystem       powershell /snap/powershell/current/opt/powershell/pwsh -sshs -NoLogo -NoProfile
 ClientAliveInterval 120
 EOF
+
+
+sudo service sshd restart
