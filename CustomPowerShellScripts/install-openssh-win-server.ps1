@@ -101,6 +101,6 @@ Match Group administrators
 
 Out-File -FilePath C:\ProgramData\ssh\sshd_config_replace -InputObject $config
 
-Invoke-WebRequest -Uri https://powershellcourse.blob.core.windows.net/pwsh/pwsh.msi -OutFile C:\Users\cloud_user\pwsh.msi
+Invoke-WebRequest -Uri https://powershellcourse.blob.core.windows.net/pwsh/pwsh.msi -OutFile C:\Users\Public\Downloads\pwsh.msi
 
 Start-Sleep -s 30
