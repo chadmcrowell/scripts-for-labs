@@ -1,1 +1,1 @@
-<a href="https://opencollective.com/cucumber/sponsor/0/website" target="_blank"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Flinux-academy%2Fhands-on-learning-culture-e9743cb7d4d7&psig=AOvVaw2WDokq4eT-_PkPgUZtZK0t&ust=1582206586706000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPj68v7g3ecCFQAAAAAdAAAAABAI"></a>
+<a href="https://opencollective.com/cucumber/sponsor/0/website" target="_blank"><img src="https://linuxacademy.com/site-content/uploads/2017/07/chromecast.png"></a>
