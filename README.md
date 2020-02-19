@@ -1,0 +1,1 @@
+<a href="https://opencollective.com/cucumber/sponsor/0/website" target="_blank"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Flinuxacademycom&psig=AOvVaw1i6xxNiqafU0xdkiPPVciI&ust=1582206505096000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJDE0Nfg3ecCFQAAAAAdAAAAABAD"></a>
