@@ -37,7 +37,7 @@ EOF
 sudo apt-get update
 
 # Install the 19.03.4 version of Docker Engine - Community
-sudo apt-get install -y containerd.io=1.2.10-3 docker-ce=5:20.10.6~3-0~ubuntu-$(lsb_release -cs)
+sudo apt-get install -y containerd.io docker-ce=5:20.10.6~3-0~ubuntu-$(lsb_release -cs)
 
 # Install kubelet, kubeadm and kubectl packages
 sudo apt-get install -y kubelet=1.20.2-00 kubeadm=1.20.2-00 kubectl=1.20.2-00
