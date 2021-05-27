@@ -66,3 +66,5 @@ sudo systemctl restart docker
 # download flannel config
 sudo wget -O /root/kube-flannel.yml https://docs.projectcalico.org/manifests/calico.yaml
 
+# download init script for control plane node
+sudo wget -O /root/k8s-initialize-cluster.sh https://raw.githubusercontent.com/chadmcrowell/k8s-from-scratch/main/week2/k8s-initialize-cluster.sh
